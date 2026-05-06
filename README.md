@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there , I'm Praveena 
+ECE Student
+ skills 
+ Webpage development
+
+ Project 
+ Airline Reservation System - java , DBMS
+ Employee Playroll System
+ 
 
 <!--
 **PRAVEENA163/PRAVEENA163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
